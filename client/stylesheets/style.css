@@ -1,0 +1,12 @@
+body {
+    background: #FFFFFF;
+    color: #444;
+    -webkit-font-smoothing: antialiased;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-weight: 400;
+    height: auto !important;
+    width: auto;
+    margin: 0px;
+    text-rendering: optimizeLegibility;
+}

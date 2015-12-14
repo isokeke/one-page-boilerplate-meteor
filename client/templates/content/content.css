@@ -1,0 +1,51 @@
+.top-content {
+  text-align: center;
+  margin: auto;
+  display: block;
+  top: 90px;
+  position: relative;
+  width: 100%;
+  background: #131425;
+  padding: 50px;
+  list-style:none;
+}
+.white-background {
+  text-align: center;
+  margin: auto;
+  display: block;
+  position: relative;
+  width: 100%;
+  background: #FFFFFF;
+  padding: 50px;
+  clear: both;
+  margin-top: 90px;
+}
+
+.main {
+  float:left;
+  width: 100%;
+}
+
+td {
+  float: left;
+  min-width: 20px;
+}
+table {
+  margin: auto;
+}
+.lorem {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  background: #131425;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer {
+  text-align: center;
+  width: 80%;
+  border-top: 1px solid gray;
+  margin: auto;
+  min-height: 60px;
+}
